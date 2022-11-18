@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 My main account must follow **@ABDUL-MANANCoder**.
 
-<a href="https://app.daily.dev/manancoder"><img src="https://api.daily.dev/devcards/ca2b952cd5514fed9c30d2791ec58f7b.png?r=z2e" width="1400" alt="ABDUL MANAN's Dev Card"/></a>
+<a href="https://app.daily.dev/manancoder"><img src="https://api.daily.dev/devcards/ca2b952cd5514fed9c30d2791ec58f7b.png?r=z2e" width="400" alt="ABDUL MANAN's Dev Card"/></a>
